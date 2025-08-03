@@ -12,6 +12,13 @@ Dashboard Features
 - **Top 5 Pizzas & Bottom by Revenue**
 - **Top 5 Pizzas & Bottom by Quantity**
 
+  ## CONCLUSION
+- The Pizza Sales Dashboard analyzes key metrics like revenue, order volume, and product performance.
+- Classic pizzas and large sizes generate the highest sales across all categories.
+- Peak orders occur on Fridays and during July and January.
+- Top performers include Thai Chicken and Classic Deluxe pizzas, while Brie Carre ranks lowest.
+- The dashboard delivers actionable insights for inventory, promotions, and sales strategy
+
 
 
 
