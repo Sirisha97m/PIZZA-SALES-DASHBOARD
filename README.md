@@ -2,7 +2,8 @@
 
 ## Objective
 To practice business intelligence and data visualization skills by analyzing transaction-level data and building a fully functional dashboard using Power BI.
-Dashboard Features
+
+## Queries
 - **Total Revenue & Total Orders**
 - **Total Pizza sold & Average Order Value**
 - **Daily & Weekly sales Trend**
