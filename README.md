@@ -2,7 +2,7 @@
 
 ## Objective
 To practice business intelligence and data visualization skills by analyzing transaction-level data and building a fully functional dashboard using Power BI.
-Dataset
+## Dataset used
 - <a href="https://github.com/Sirisha97m/PIZZA-SALES-DASHBOARD/blob/main/pizza_sales_file.xlsx">Dataset</a>
 ## Queries
 - **Total Revenue & Total Orders**
