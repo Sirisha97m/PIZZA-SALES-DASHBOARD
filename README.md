@@ -12,7 +12,7 @@ Dashboard Features
 - **Top 5 Pizzas & Bottom by Revenue**
 - **Top 5 Pizzas & Bottom by Quantity**
 
-  ## CONCLUSION
+  ## Conclusion
 - The Pizza Sales Dashboard analyzes key metrics like revenue, order volume, and product performance.
 - Classic pizzas and large sizes generate the highest sales across all categories.
 - Peak orders occur on Fridays and during July and January.
